@@ -1,0 +1,23 @@
+# Folders
+bin/
+obj/
+.vs/
+packages/
+*.nupkg
+*.log
+*.cache
+*.tmp
+
+# Files
+*.user
+*.suo
+*.csproj.user
+*.dbmdl
+
+# ASP.NET Core files
+appsettings.Development.json
+launchSettings.json
+
+# SQL Server files
+*.mdf
+*.ldf
