@@ -8,6 +8,9 @@ packages/
 *.cache
 *.tmp
 
+#appsettings
+appsettings
+
 # Files
 *.user
 *.suo
